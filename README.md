@@ -112,7 +112,6 @@ The project includes:
 
 ---
 
-# Confusion Matrix
 
 
 # Technologies Used
